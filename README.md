@@ -8,7 +8,8 @@ Me chamo **Felipe Marcos Bastos Pena**, sou estudante de **ADS na SPTech (São P
 
 ## 💡 Sobre mim
 
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na SPTech  
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na SPTech
+- 🧾 Formado no curso técnico de ADS pelo Senai   
 - 🔎 Explorando o mundo do desenvolvimento fullstack   
 - 🧠 Sempre buscando evoluir e aprender mais, seja sozinho ou em equipe
 
@@ -96,5 +97,3 @@ Me chamo **Felipe Marcos Bastos Pena**, sou estudante de **ADS na SPTech (São P
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Marcos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
-
----
