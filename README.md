@@ -86,14 +86,14 @@ Me chamo **Felipe Marcos Bastos Pena**, sou estudante de **ADS na SPTech (São P
     alt="Estatísticas do GitHub de Felipe" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Felipe-Marcos&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Tecnologias mais usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Marcos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
 
